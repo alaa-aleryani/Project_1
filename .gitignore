@@ -1,3 +1,10 @@
+# Ignore api-keys
+api_keys.py
+
+# IGNORE
+Analysis/api_keys.py
+__pycache__
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 
