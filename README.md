@@ -49,9 +49,6 @@ When looking at BPM between year groups, we see the average is 120.  I conducted
 
 ![Songs by BPM by Years](https://github.com/RobinLWilson/Project_1/assets/139357402/6099d491-755b-4d73-8ecc-e35a4f8899ad)
 
-![Popular Songs by Release Year](https://github.com/RobinLWilson/Project_1/assets/139357402/448f4ac2-b2d9-4fd2-9b04-8c18fe47d7e9)
-
-
 ### NOTE:
 This was a collaborative project between 4 data science students:
 Alaa A: alaaaleryani31@gmail.com
