@@ -7,6 +7,7 @@ We used python, matplotlib, pandas, and stats.
 # Our Findings:
 ## Question 1:
 In question 1, we were examining the similarities among the number one songs on each platform (Spotify, Apple, and Deezer). Pop music was the most popular genre on all three platforms, and with Rap/Hip Hop closely following. When considering the key of the songs, we found that all keys was evenly distributed. However, when looking at whether the music was in a minor or major key, we’ve noticed that major key was the most popular in Spotify, whereas on Apple and Deezer, minor were more popular. Finally, when it came to BPM, we grouped  the BPMs to have a better idea. The most common BPM range on Spotify was 80-99, which is considered slow in a major key. For Apple, the most common range was 100-110 which is more of a medium-fast tempo. Deezer, on the other hand, had the fastest tempo, with the most common BPM range being 120-130.
+
 <img width="499" alt="Q1 genres" src="https://github.com/RobinLWilson/Project_1/assets/139357402/975c04da-2bde-4ebf-aea5-ed89d1bda60c">
 <img width="492" alt="Q1_bpm" src="https://github.com/RobinLWilson/Project_1/assets/139357402/319a39f1-37be-478e-a41a-989a0db3d07c">
 <img width="497" alt="Q1_key" src="https://github.com/RobinLWilson/Project_1/assets/139357402/908bdd6b-6824-4b3f-b0bd-7dd59457f16f">
