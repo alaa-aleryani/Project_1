@@ -15,6 +15,11 @@ Question 3:
 
 
 Question 4:
+Question 4 looks at songs streamed in 2023 by their release year. 
+
+We see that songs released in 2023 represent only 6% of streaming, songs released in 2022 represent 26% of streaming and songs released before 2022 represent 68% of streaming.  An Anova test and p-value told us there is a statistically significant difference between year groups.
+
+
 ![Streams by Release Year](https://github.com/RobinLWilson/Project_1/assets/139357402/dc4d9dd1-159a-4f7a-a7ee-2e246db7e862)
 ![Songs from Before 2022 by Mode](https://github.com/RobinLWilson/Project_1/assets/139357402/b9b93396-b4cb-4cb5-8850-32d6128e3aaf)
 ![Songs from Before 2022 by Genre](https://github.com/RobinLWilson/Project_1/assets/139357402/ce874113-e005-42d6-8b08-f4f3420799b3)
