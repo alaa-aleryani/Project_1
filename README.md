@@ -46,7 +46,7 @@ When looking at Major versus Minor in year groups we see that 2023 releases are 
 When looking at BPM between year groups, we see the average is 120.  I conducted a t-test and the resulting p-value said there was not a significant association.
 ![Songs from 2023 by BPM](https://github.com/RobinLWilson/Project_1/assets/139357402/6f8c14b9-8c93-4468-88fc-349ae5e7eeb3)
 ![Songs from 2022 by BPM](https://github.com/RobinLWilson/Project_1/assets/139357402/0082e1e1-bd80-44ed-a9fb-6027943d1854)
-
+![Songs from Before 2022 by BPM](https://github.com/RobinLWilson/Project_1/assets/139357402/3addbae5-7bf6-4269-8eab-a1695eeedd47)
 ![Songs by BPM by Years](https://github.com/RobinLWilson/Project_1/assets/139357402/6099d491-755b-4d73-8ecc-e35a4f8899ad)
 
 ### NOTE:
