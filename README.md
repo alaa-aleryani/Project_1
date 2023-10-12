@@ -23,9 +23,10 @@ Finally, for part 2, we created another bar chart to see which months top songs 
 <img width="409" alt="image" src="https://github.com/RobinLWilson/Project_1/assets/141863731/f3ff3717-69f8-4afb-9e98-0e03eb96e649">
 
 ## Question 3:
-Question 3 looks at songs charted on Apple Music, Spotify, and Deezer in 2023. 
+In Question 3 we looked at what songs charted on all three platforms and analyzed them by genre, bpm, and key(major v. minor). This was done by reducing the dataset and removing any song that did not chart on all three platforms, deezer, apple music and Spotify. Begining with key, we first looked at how many songs charted for each key, and found these results.  <img width="616" alt="image" src="https://github.com/RobinLWilson/Project_1/assets/142050568/5e33ebca-8aaa-4cbf-9724-3b6c63d29920"> While that did not tell us much about the songs, we grouped them by major v minor songs, where major songs are more cheerful songs and minor songs are typically sadder and calmer. <img width="417" alt="image" src="https://github.com/RobinLWilson/Project_1/assets/142050568/23d23f27-476b-4db7-87e6-b398fe7b6a2b"> This chart shows that songs in a major key charted on all three platforms more often than songs in a minor key. Next, we analyzed bpm. According to the following chart we found that charted songs have a variety of bpms, but bpms that had 5 or more songs chart are typically within 100-180 bpm. <img width="606" alt="image" src="https://github.com/RobinLWilson/Project_1/assets/142050568/b934ae0c-8a04-488d-b83c-f3a8ac20c65d"> 
+Lastly, we looked at genre. The genre with the most songs that charted on all three platforms was pop followed by rap/hip hop. <img width="576" alt="image" src="https://github.com/RobinLWilson/Project_1/assets/142050568/d08beb5e-8872-42d7-815e-3496d95fcc07"> 
 
-
+Based on these findings, in general, songs that are in a major key, between 100-180 bpm and pop songs chart the most.
 
 ## Question 4:
 Question 4 looks at songs streamed in 2023 by their release year. 
