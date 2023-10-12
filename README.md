@@ -8,6 +8,7 @@ Our findings:
 Question 1:
 
 Question 2:
+<img width="950" alt="Screenshot 2023-10-11 212753" src="https://github.com/RobinLWilson/Project_1/assets/141863731/693b985b-d05a-4ebd-8c7f-156dbbb43062">
 
 
 Question 3:
