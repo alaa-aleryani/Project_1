@@ -5,17 +5,27 @@ We set out to analyze what users are listening to and discover trends and implic
 We used python, matplotlib, pandas, and stats.
 
 Our findings:
-Question 1:
+## Question 1:
 
-Question 2:
+## Question 2:
+In question 2, we were interested in looking into the top 3 songs in each platform based on how many playlists a song was saved in.
 <img width="950" alt="Screenshot 2023-10-11 212753" src="https://github.com/RobinLWilson/Project_1/assets/141863731/693b985b-d05a-4ebd-8c7f-156dbbb43062">
 
+Then we looked into the 3 top songs based on Spotify Streams. Also, we created a bar chart to see which artist has the most saved songs.
+<img width="475" alt="image" src="https://github.com/RobinLWilson/Project_1/assets/141863731/0f664098-84d4-4f53-834b-a97dba882b50">
+<img width="521" alt="Screenshot 2023-10-11 213832" src="https://github.com/RobinLWilson/Project_1/assets/141863731/0636b672-6a27-491c-809a-bac35dd5663f">
+Finally, for part 2, we created another bar chart to see which months top songs were released in.
+<img width="409" alt="image" src="https://github.com/RobinLWilson/Project_1/assets/141863731/f3ff3717-69f8-4afb-9e98-0e03eb96e649">
 
-Question 3:
 
 
 
-Question 4:
+
+## Question 3:
+
+
+
+## Question 4:
 Question 4 looks at songs streamed in 2023 by their release year. 
 
 We see that songs released in 2023 represent only 6% of streaming, songs released in 2022 represent 26% of streaming and songs released before 2022 represent 68% of streaming.  An Anova test and p-value told us there is a statistically significant difference between year groups.
@@ -36,7 +46,7 @@ We see that songs released in 2023 represent only 6% of streaming, songs release
 ![Popularity of Songs Released Before 2022 by Genre](https://github.com/RobinLWilson/Project_1/assets/139357402/94cd6e9e-fb37-4a52-a132-3338d4a9a805)
 ![Popular Songs by Release Year](https://github.com/RobinLWilson/Project_1/assets/139357402/448f4ac2-b2d9-4fd2-9b04-8c18fe47d7e9)
 
-
+### Note:
 This was a collaborative project between 4 data science students:
 Alaa A: alaaaleryani31@gmail.com
 Amanda K: krestamanda@gmail.com
