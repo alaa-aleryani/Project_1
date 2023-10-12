@@ -11,6 +11,7 @@ Question 2:
 
 
 Question 3:
+Question 3 looks at songs charted on Apple Music, Spotify, and Deezer in 2023. 
 
 
 
