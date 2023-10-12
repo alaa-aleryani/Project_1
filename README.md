@@ -4,18 +4,30 @@ This is an analysis of top Spotify tracks in 2023.
 We set out to analyze what users are listening to and discover trends and implications so streaming platforms (Spotify, Apple & Deezer) can increase potential revenue.
 We used python, matplotlib, pandas, and stats.
 
-Our findings:
-Question 1:
+# Our Findings:
+## Question 1:
 In question 1, we were examining the similarities among the number one songs on each platform (Spotify, Apple, and Deezer). Pop music was the most popular genre on all three platforms, and with Rap/Hip Hop closely following. When considering the key of the songs, we found that all keys was evenly distributed. However, when looking at whether the music was in a minor or major key, we’ve noticed that major key was the most popular in Spotify, whereas on Apple and Deezer, minor were more popular. Finally, when it came to BPM, we grouped  the BPMs to have a better idea. The most common BPM range on Spotify was 80-99, which is considered slow in a major key. For Apple, the most common range was 100-110 which is more of a medium-fast tempo. Deezer, on the other hand, had the fastest tempo, with the most common BPM range being 120-130.
-Question 2:
 
 
-Question 3:
+## Question 2:
+In question 2, we were interested in looking into the top 3 songs in each platform based on how many playlists a song was saved in.
+
+<img width="950" alt="Screenshot 2023-10-11 212753" src="https://github.com/RobinLWilson/Project_1/assets/141863731/693b985b-d05a-4ebd-8c7f-156dbbb43062">
+
+Then we looked into the 3 top songs based on Spotify Streams. Also, we created a bar chart to see which artist has the most saved songs.
+
+<img width="475" alt="image" src="https://github.com/RobinLWilson/Project_1/assets/141863731/0f664098-84d4-4f53-834b-a97dba882b50">
+<img width="521" alt="Screenshot 2023-10-11 213832" src="https://github.com/RobinLWilson/Project_1/assets/141863731/0636b672-6a27-491c-809a-bac35dd5663f">
+
+Finally, for part 2, we created another bar chart to see which months top songs were released in.
+<img width="409" alt="image" src="https://github.com/RobinLWilson/Project_1/assets/141863731/f3ff3717-69f8-4afb-9e98-0e03eb96e649">
+
+## Question 3:
 Question 3 looks at songs charted on Apple Music, Spotify, and Deezer in 2023. 
 
 
 
-Question 4:
+## Question 4:
 Question 4 looks at songs streamed in 2023 by their release year. 
 
 We see that songs released in 2023 represent only 6% of streaming, songs released in 2022 represent 26% of streaming and songs released before 2022 represent 68% of streaming.  An Anova test and p-value told us there is a statistically significant difference between year groups.
@@ -37,6 +49,7 @@ We see that songs released in 2023 represent only 6% of streaming, songs release
 ![Popular Songs by Release Year](https://github.com/RobinLWilson/Project_1/assets/139357402/448f4ac2-b2d9-4fd2-9b04-8c18fe47d7e9)
 
 
+### NOTE:
 This was a collaborative project between 4 data science students:
 Alaa A: alaaaleryani31@gmail.com
 Amanda K: krestamanda@gmail.com
