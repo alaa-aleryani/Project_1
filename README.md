@@ -7,7 +7,9 @@ We used python, matplotlib, pandas, and stats.
 # Our Findings:
 ## Question 1:
 In question 1, we were examining the similarities among the number one songs on each platform (Spotify, Apple, and Deezer). Pop music was the most popular genre on all three platforms, and with Rap/Hip Hop closely following. When considering the key of the songs, we found that all keys was evenly distributed. However, when looking at whether the music was in a minor or major key, we’ve noticed that major key was the most popular in Spotify, whereas on Apple and Deezer, minor were more popular. Finally, when it came to BPM, we grouped  the BPMs to have a better idea. The most common BPM range on Spotify was 80-99, which is considered slow in a major key. For Apple, the most common range was 100-110 which is more of a medium-fast tempo. Deezer, on the other hand, had the fastest tempo, with the most common BPM range being 120-130.
-
+<img width="499" alt="Q1 genres" src="https://github.com/RobinLWilson/Project_1/assets/139357402/975c04da-2bde-4ebf-aea5-ed89d1bda60c">
+<img width="492" alt="Q1_bpm" src="https://github.com/RobinLWilson/Project_1/assets/139357402/319a39f1-37be-478e-a41a-989a0db3d07c">
+<img width="497" alt="Q1_key" src="https://github.com/RobinLWilson/Project_1/assets/139357402/908bdd6b-6824-4b3f-b0bd-7dd59457f16f">
 
 ## Question 2:
 In question 2, we were interested in looking into the top 3 songs in each platform based on how many playlists a song was saved in.
@@ -49,6 +51,12 @@ When looking at BPM between year groups, we see the average is 120.  I conducted
 ![Songs from 2022 by BPM](https://github.com/RobinLWilson/Project_1/assets/139357402/0082e1e1-bd80-44ed-a9fb-6027943d1854)
 ![Songs from Before 2022 by BPM](https://github.com/RobinLWilson/Project_1/assets/139357402/3addbae5-7bf6-4269-8eab-a1695eeedd47)
 ![Songs by BPM by Years](https://github.com/RobinLWilson/Project_1/assets/139357402/6099d491-755b-4d73-8ecc-e35a4f8899ad)
+
+Finally, you can see a concise view of the user profiles for Spotify, Apply & Deezer:
+<img width="423" alt="final_platform_comparison" src="https://github.com/RobinLWilson/Project_1/assets/139357402/41a1ddc0-173f-45f4-96ea-3ad5d62b36de">
+
+And you can see the final release year comparison:
+<img width="434" alt="final_release_yr_comparison" src="https://github.com/RobinLWilson/Project_1/assets/139357402/218e87bf-0dfc-4e1b-9d23-be2dca2dce36">
 
 ### NOTE:
 This was a collaborative project between 4 data science students:
