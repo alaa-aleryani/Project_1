@@ -83,21 +83,10 @@ And you can see the final release year comparison:
 
 ### NOTE:
 This was a collaborative project between 4 data science students:
-Alaa A: alaaaleryani31@gmail.com
-Amanda K: krestamanda@gmail.com
-Tiffany Y: hsyuk0618@gmail.com
-Robin W: wilson.robin.leigh@gmail.com
-
-Acknowledgements:
-Nidula Elgiriyewithana: Top Spotify Songs data set: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/
-
-RapidAPI and Deezer: API call to find the genres: https://rapidapi.com/deezerdevs/api/deezer-1
-### Note:
-This was a collaborative project between 4 data science students:
-Alaa A: alaaaleryani31@gmail.com
-Amanda K: krestamanda@gmail.com
-Tiffany Y: hsyuk0618@gmail.com
-Robin W: wilson.robin.leigh@gmail.com
+<br> <b>Alaa A:</b> alaaaleryani31@gmail.com 
+<br> <b>Amanda K:</b> krestamanda@gmail.com 
+<br> <b>Tiffany Y:</b> hsyuk0618@gmail.com 
+<br> <b>Robin W:</b> wilson.robin.leigh@gmail.com
 
 Acknowledgements:
 Nidula Elgiriyewithana: Top Spotify Songs data set: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/
